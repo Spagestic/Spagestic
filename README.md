@@ -18,13 +18,13 @@ Hong Kong Baptist University | BSc (Hons.) in Mathematics and Statistics | Conc.
 --!>
 
 ```javascript
-const Spagestic = {
-    Name: "GINNI Vishal",
-    Skills: [
-      WebDev: [Next.js, MongoDB, React, JavaScript, HTML, CSS],
-      DataScience: [Python, TensorFlow, Pytorch],
-    ],
-}
+const Spagestic = {{ 
+    name: "GINNI Vishal", 
+    skills: { 
+        webDev: ["Next.js", "MongoDB", "React", "JavaScript", "HTML", "CSS"], 
+        dataScience: ["Python", "TensorFlow", "PyTorch"] 
+        } }
+
 ```
 
 ## 🚀 Let's Connect
