@@ -1,4 +1,4 @@
-# Hi, I'm Spagestic 👋 <img src="https://media.giphy.com/media/SsBGWQvtVJJqCkMXe2/giphy.gif" width="50"></h2>
+# Hi, I'm Spagestic 👋 
 
 ## 🎓 Education
 Hong Kong Baptist University | BSc (Hons.) in Mathematics and Statistics | Conc. in Data Science | Minor in Finance
@@ -13,9 +13,10 @@ Hong Kong Baptist University | BSc (Hons.) in Mathematics and Statistics | Conc.
 ![Python](https://img.shields.io/badge/-Python-purple?style=flat-square&logo=python)
 
 ### Data Science
-![Python]
-![TensorFlow]
+![Python](https://img.shields.io/badge/-Python-purple?style=flat-square&logo=python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-red?style=flat-square&logo=tensorflow)
 
 ## 🚀 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/spagestic/)](https://www.linkedin.com/in/spagestic/)
 [![GitHub Spagestic](https://img.shields.io/github/followers/spagestic?label=follow&style=social)](https://github.com/spagestic)
+
