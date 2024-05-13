@@ -10,7 +10,6 @@ Hong Kong Baptist University | BSc (Hons.) in Mathematics and Statistics | Conc.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-green?style=flat-square&logo=css3)
-![Python](https://img.shields.io/badge/-Python-purple?style=flat-square&logo=python)
 
 ### Data Science
 ![Python](https://img.shields.io/badge/-Python-purple?style=flat-square&logo=python)
