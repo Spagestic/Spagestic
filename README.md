@@ -1,4 +1,3 @@
-![Data Science | Web Development](https://media.licdn.com/dms/image/D5616AQGlBsLMFHFgGg/profile-displaybackgroundimage-shrink_350_1400/0/1715640801374?e=1721260800&v=beta&t=uDTHwfwt5ElIo23AolmfwasqScX1qVmGB03wWJ13wik)
 # Hi, I'm Spagestic 👋 
 
 ```js
