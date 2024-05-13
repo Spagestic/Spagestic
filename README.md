@@ -1,6 +1,6 @@
 ![Data Science | Web Development](https://media.licdn.com/dms/image/D5616AQGlBsLMFHFgGg/profile-displaybackgroundimage-shrink_350_1400/0/1715640801374?e=1721260800&v=beta&t=uDTHwfwt5ElIo23AolmfwasqScX1qVmGB03wWJ13wik)
 # Hi, I'm Spagestic 👋 
-
+<!--
 ## 🎓 Education
 Hong Kong Baptist University | BSc (Hons.) in Mathematics and Statistics | Conc. in Data Science | Minor in Finance
 
@@ -15,6 +15,17 @@ Hong Kong Baptist University | BSc (Hons.) in Mathematics and Statistics | Conc.
 ### Data Science
 ![Python](https://img.shields.io/badge/-Python-purple?style=flat-square&logo=python)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-red?style=flat-square&logo=tensorflow)
+--!>
+
+```javascript
+const Spagestic = {
+    Name: "GINNI Vishal",
+    Skills: [
+      WebDev: [Next.js, MongoDB, React, JavaScript, HTML, CSS],
+      DataScience: [Python, TensorFlow, Pytorch],
+    ],
+}
+```
 
 ## 🚀 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/spagestic/)](https://www.linkedin.com/in/spagestic/)
