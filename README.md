@@ -1,9 +1,6 @@
 # Hi, I'm Spagestic 👋 
 
-<div style="display:flex; border-radius: 10px;">
-    <img align='right' src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width=400>
-</div>
-
+<img align='right' src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width=350>
 
 ```js
 const Spagestic = {
