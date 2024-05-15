@@ -21,6 +21,6 @@ const Spagestic = {
 };
 ```
 ## 🚀 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/spagestic/)](https://www.linkedin.com/in/spagestic/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/vishalginni/)](https://www.linkedin.com/in/vishalginni/)
 [![GitHub Spagestic](https://img.shields.io/github/followers/spagestic?label=follow&style=social)](https://github.com/spagestic)
 
