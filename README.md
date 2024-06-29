@@ -15,8 +15,8 @@ const Spagestic = {
         }
     },
     skills: {
-        webDev: [NextJS, MongoDB, React, JavaScript, HTML, CSS],
-        dataScience: [Python, TensorFlow]
+        webDev: [NextJS, MongoDB, TypeScript, React, HTML, CSS],
+        dataScience: [Python, TensorFlow, Pytorch]
     }
 };
 ```
