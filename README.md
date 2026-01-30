@@ -1,21 +1,4 @@
 
-## 💼 Featured Projects
-
-### 🎯 [NorthStar](https://thenorthstar.vercel.app/) | Lead Software Engineer
-> Voice-based GenAI interview platform automating candidate screening
-- **Tech Stack:** Next.js, Supabase, ElevenLabs Agents, TypeScript
-- **Impact:** Streamlines early-stage hiring with realistic AI conversations
-
-### 📚 [Balvito](https://balvito.vercel.app/) | Founding Engineer  
-> EdTech tool transforming lecture notes into interactive learning experiences
-- **Tech Stack:** Next.js, Supabase, Mistral OCR/LLM APIs
-- **Features:** Auto-generated summaries, flashcards, and dynamic editors
-
-### 🐱 [theFipa](https://vetsage.webflow.io/) | Web Developer
-> AI-powered diagnostic platform for Feline Infectious Peritonitis (FIP)
-- **Tech Stack:** Next.js, MongoDB, Clerk Auth, TensorFlow
-- **Impact:** Critical decision-support tool for veterinarians worldwide
-
 ## 🏆 Recent Achievements
 
 | Competition | Award | Project |
@@ -45,36 +28,10 @@
 
 ### Databases & Cloud
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Convex](https://img.shields.io/badge/Convex-EF4823?style=for-the-badge&logo=convex&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-
-## 🎓 Education & Certifications
-
-**Hong Kong Baptist University** | BSc (Hons.) Mathematics & Statistics  
-_Minor in Finance | GPA: 3.65/4.0 | President's Honour Roll_
-
-**Notable Certifications:**
-- Level 4 Diploma in Applied Asset Management | AmplifyMe
-- Level 4 Diploma in Applied Finance | AmplifyMe  
-- Blockchain Developer Program | Solana Foundation × Nas Academy
-
-## 🎤 Speaking & Leadership
-
-- **Radical Startup Debate Speaker** - HKBU BeUnicorn Day (2025)
-- **Guest Speaker** - Hong Kong Academy on "Empowering Connection"
-- **Master of Ceremonies** - HKBU 68th Convocation Ceremony
-- **Honorary Speaker** - HKBU Stateless People Symposium
-- **Delegate** - CUHK Generative AI Insights Conference
-
-## 🏅 Scholarships & Awards
-
-- Padma & Hari Harilela Scholarship Fund for Outstanding Students
-- 2× HKBU Non-Local Non-Mainland Student Special Award
-- HKBU Outstanding Student Leaders Award
-- CMB Wing Lung Bank Scholarship
-- 3× Outstanding Academic Performance Award
 
 ## 📫 Let's Connect
 
