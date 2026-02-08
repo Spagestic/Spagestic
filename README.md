@@ -1,14 +1,3 @@
-
-## 🏆 Recent Achievements
-
-| Competition | Award | Project |
-|------------|-------|---------|
-| **Inter-University GenAI Hackathon** | 🥇 Gold Prize | Voice-based Interview Platform |
-| **ENACTUS HK Regional 2025** | 🥈 1st Runner-Up | B2B EdTech Solution |
-| **Techstars Startup Weekend HK** | 🏆 Championship | Balvito |
-| **Hang Seng × Cyberport Challenge** | 🎯 Top 5 Finalist | LangGraph + RAG Solution |
-| **Dean's Cup Business Innovation** | 🏆 Champion | theFIPA (VETsage) |
-
 ## 🛠️ Tech Stack
 
 ### Languages
